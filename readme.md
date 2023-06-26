@@ -6,6 +6,9 @@ Ce texte est une synthèse d'un excellent document disponible en ligne, relative
 
 Il est surtout une mine d'informations sur les sujets qui nous agitent et donnent de nombreux conseils, exemples, réalisations, concepts émanant des principaux médias dans le monde face au "TsunamIA".
 
+
+- [TÉLÉCHARGEZ LE RAPPORT SUR L'IA DU JOURNALISME **"New powers, new responsibilities. A global survey of journalism and artificial intelligence"**](https://drive.google.com/open?id=1utmAMCmd4rfJHrUfLLfSJ-clpFTjyef1)
+
 - Article extrait de l'étude : [New powers, new responsibilities. A global survey of journalism and artificial intelligence](
 https://www.lse.ac.uk/media-and-communications/polis/JournalismAI/The-report)
 
