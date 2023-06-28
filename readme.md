@@ -1,11 +1,14 @@
 # summary_new_powers_new_responsibilities_the_journalism_ai_report_1
 
+journalism-ai-report
+
 ## 1. INTRODUCTION
 
 Ce texte est une synthèse d'un excellent document disponible en ligne, relativement récent (2019) extrait du "The JournalismAI Report", nommé **"New powers, new responsibilities. A global survey of journalism and artificial intelligence"**, de Charlie Beckett, Professeur à la London School of Economics and Political Science.
 
 Il est surtout une mine d'informations sur les sujets qui nous agitent et donnent de nombreux conseils, exemples, réalisations, concepts émanant des principaux médias dans le monde face au "TsunamIA".
 
+#JournalismAI
 
 - [TÉLÉCHARGEZ LE RAPPORT SUR L'IA DU JOURNALISME **"New powers, new responsibilities. A global survey of journalism and artificial intelligence"**](https://drive.google.com/open?id=1utmAMCmd4rfJHrUfLLfSJ-clpFTjyef1)
 
