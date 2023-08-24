@@ -119,7 +119,7 @@ En clair, bien que cela sonne comme une évidence mais il existe donc une corré
 Cf. Scikit Learn - The Iris Dataset
 https://arcca.github.io/An-Introduction-to-Machine-Learning-Applications/03-scikit-learn-iris-dataset/index.html
 
-En anglais, de manière un peu vulgaire, il existe un adage qui résume ce paradoxe : Sheet In, Sheet Out. En effet, si les données sont médiocres, le résultat sera inepte. Cela corrobore un des points de l'étude remise par Orange qui insistait sur la nécessité pour FMM de veiller à la qualité de metadata qui est le substrat dont l'IA se nourrie.
+En anglais, de manière un peu vulgaire, il existe un adage qui résume ce paradoxe : "Shit In, Shit Out". En effet, si les données sont médiocres, le résultat sera inepte. Cela corrobore un des points de l'étude remise par Orange qui insistait sur la nécessité pour FMM de veiller à la qualité de metadata qui est le substrat dont l'IA se nourrie.
 
 Sur le Data Wrangling, voir par exemple le Stanford Wrangler. http://vis.stanford.edu/wrangler/
 
